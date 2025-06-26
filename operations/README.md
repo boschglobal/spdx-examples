@@ -25,6 +25,6 @@ tbd
 | 02 | Outbound assessment | A system shall be delivered downstream the supply-chain | - | - |
 | 03 | Export control assessment | A system shall be delivered into another country | - | - |
 | 03 | License compliance assessment | - | - | - |
-| 04 | Obligation fulfillment assessment | Before delivery the fulfillment of the obligations for the planned distribution context shall be assessed (e.g. hosted vs. distributed) | - | - |
-| 05 | Contribution assessment | An organization plans to contribute upstream and needs to assess the boundaries (e.g. CLA to be signed etc.) | - | - |
+| 04 | Obligation fulfillment assessment | Before changing a system's business context from one context to another (e.g. distributed vs. hosted), the fulfillment of the obligations for the new context shall be assessed  | - | - |
+| 05 | Contribution assessment | Before contributing to upstream the boundaries shall be assessed (e.g. CLA to be signed etc.) | - | - |
 
