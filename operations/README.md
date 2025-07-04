@@ -22,12 +22,10 @@ tbd
 
 ## Examples
 
-| ## | Name | Scenario | Lifecycle phase | Comments |
+| ## | Data | Sources | SPDX | Comments |
 |----|------|---------|------|----------|
-| 01 | Inbound assessment | A system component shall be used from upstream | - | - |
-| 02 | Outbound assessment | A system shall be delivered downstream the supply-chain | - | - |
-| 03 | Export control assessment | A system shall be delivered into another country | - | - |
-| 03 | License compliance assessment | - | - | - |
-| 04 | Obligation fulfillment assessment | Before changing a system's business context from one context to another (e.g. distributed vs. hosted), the fulfillment of the obligations for the new context shall be assessed  | - | - |
-| 05 | Contribution assessment | Before contributing to upstream the boundaries shall be assessed (e.g. CLA to be signed etc.) | - | - |
-
+| [01](./example01/) | ... | - | 1 document | An example of an Inbound assessment. |
+| [02](./example02/) | ... | - | 1 document | An example of an Outbound assessment. |
+| [03](./example03/) | ... | - | 1 document | An example of a contribution assessment. |
+| [04](./example04/) | ... | - | 1 document | An example of an obligation fulfillment assessment. |
+| [05](./example05/) | ... | - | 1 document | An example of an Export Control assessment. |
