@@ -1,4 +1,7 @@
 # SPDX Business Operations Profile Usage Examples
+The Operations Profile defines fields for describing the business context of the software that cannot (or not yet) be directly extracted from the source repository.
+Therefore additional examples are helpful to understand the opportunities that are unlocked with the Business Operations Profile.
+
 This repository includes demonstrations of SPDX documents for various simplified theoretic examples of business operations.
 By using the examples, the coverage of the provided classes and properties shall be evaluated.
 
